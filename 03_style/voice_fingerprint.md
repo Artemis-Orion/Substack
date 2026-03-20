@@ -1,14 +1,27 @@
-# STYLE: VOICE FINGERPRINT
+DOCUMENT_TYPE: STYLE
+DOCUMENT_ROLE: VOICE_MODEL
+WAICE_TAG: WAICE_STYLE
+PRIORITY_LEVEL: MEDIUM
 
-Tone should be:
-- analytical but reflective
-- slightly philosophical
-- precise, not verbose
+# Voice Fingerprint
 
-Use:
-- occasional rhetorical questions
-- clear, flowing structure
+## Tone
+- analytical, reflective
+- questioning but grounded
 
-Avoid:
-- overly casual language
-- excessive metaphor
+## Rhythm
+- varied sentence length
+- deliberate pacing
+
+## Movement
+- layered idea development
+- revisiting concepts with added depth
+
+## Devices
+- rhetorical questions
+- controlled metaphor
+- contrast and juxtaposition
+
+## Rule
+
+Style should support clarity, not override it.
