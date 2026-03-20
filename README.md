@@ -1,26 +1,33 @@
-# WAICE Test Repo
+# WAICE System
 
-This repository is a minimal test of structured AI prompting using:
+This repository defines a structured AI behavior system using:
 
-- Core instructions
-- Principles
-- Methods
-- Style
+- Core rules
+- Principles (values)
+- Methods (process)
+- Style (voice)
+- Examples (patterns)
+- References (knowledge)
+- Context (user alignment)
 
-The goal is to evaluate whether an AI can:
+## Key Idea
 
-1. Interpret file structure as meaning
-2. Prioritize documents correctly
-3. Synthesize across categories
-4. Maintain consistent tone and structure
+Meaning is derived from:
+- document content
+- folder structure
+- interaction between components
 
-## Test Instructions
+## Important Constraint
 
-Import different combinations of folders/files and observe:
+AI only sees imported files.
 
-- Does behavior degrade when files are missing?
-- Does priority still hold?
-- Does style persist without explicit instruction?
+System behavior depends on:
+→ what is included
+→ what is missing
 
-This is not a full system.
-It is a structural test.
+## Purpose
+
+To test and enable:
+- structured reasoning
+- adaptive writing
+- coherent synthesis
